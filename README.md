@@ -5,33 +5,15 @@ To avoid the previous assets being removed or hard to find, we provide this repo
 
 ## Structure
 
-```
-WasmEdge version
-|- llama.cpp version
-   |- xxx.tar.gz
-```
-
-E.g.
+Please check the release pages for the assets
 
 ```
 0.13.5
-├── b1444
-│   ├── WasmEdge-plugin-wasi_nn-ggml-0.13.5-darwin_arm64.tar.gz
-│   ├── WasmEdge-plugin-wasi_nn-ggml-0.13.5-darwin_x86_64.tar.gz
-│   ├── WasmEdge-plugin-wasi_nn-ggml-0.13.5-manylinux2014_aarch64.tar.gz
-│   ├── WasmEdge-plugin-wasi_nn-ggml-0.13.5-manylinux2014_x86_64.tar.gz
-│   ├── WasmEdge-plugin-wasi_nn-ggml-0.13.5-ubuntu20.04_aarch64.tar.gz
-│   ├── WasmEdge-plugin-wasi_nn-ggml-0.13.5-ubuntu20.04_x86_64.tar.gz
-│   ├── WasmEdge-plugin-wasi_nn-ggml-cuda-0.13.5-ubuntu20.04_aarch64.tar.gz
-│   └── WasmEdge-plugin-wasi_nn-ggml-cuda-0.13.5-ubuntu20.04_x86_64.tar.gz
-└── b1656
-    ├── WasmEdge-plugin-wasi_nn-ggml-0.13.5-darwin_arm64.tar.gz
-    ├── WasmEdge-plugin-wasi_nn-ggml-0.13.5-manylinux2014_aarch64.tar.gz
-    ├── WasmEdge-plugin-wasi_nn-ggml-0.13.5-manylinux2014_x86_64.tar.gz
-    ├── WasmEdge-plugin-wasi_nn-ggml-0.13.5-ubuntu20.04_aarch64.tar.gz
-    ├── WasmEdge-plugin-wasi_nn-ggml-0.13.5-ubuntu20.04_x86_64.tar.gz
-    ├── WasmEdge-plugin-wasi_nn-ggml-blas-0.13.5-ubuntu20.04_aarch64.tar.gz
-    ├── WasmEdge-plugin-wasi_nn-ggml-blas-0.13.5-ubuntu20.04_x86_64.tar.gz
-    ├── WasmEdge-plugin-wasi_nn-ggml-cuda-0.13.5-ubuntu20.04_aarch64.tar.gz
-    └── WasmEdge-plugin-wasi_nn-ggml-cuda-0.13.5-ubuntu20.04_x86_64.tar.gz
+|- b3613
+|- no longer updated, if you need a new version of the ggml plugin, please use 0.14.1
+0.14.0
+|- b3613
+|- no longer updated, if you need a new version of the ggml plugin, please use 0.14.1
+0.14.1
+|- b3651
 ```
