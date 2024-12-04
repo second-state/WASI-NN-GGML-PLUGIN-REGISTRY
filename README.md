@@ -16,5 +16,6 @@ Please check the release pages for the assets
 |- no longer updated, if you need a new version of the ggml plugin, please use 0.14.1
 0.14.1
 |- b3651
-|- b4067
+|- b4067 (cannot run embedding)
+|- b4242 (fixed the embedding issue)
 ```
