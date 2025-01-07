@@ -20,4 +20,5 @@ Please check the release pages for the assets
 |- *b4242 (DO NOT USE, fixed the embedding issue, but failed the context lifecycle)
 |- b4273 (fixed the context lifecycle issue)
 |- b4381 (Support Qwen-2-VL)
+|- b4419 (Support DeepSeekV3)
 ```
