@@ -23,4 +23,5 @@ Please check the release pages for the assets
 |- b4419 (Support DeepSeekV3)
 |- b4466 (Reduce Qwen2VL image embedding time)
 |- b4623
+|- b4681
 ```
