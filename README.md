@@ -26,4 +26,5 @@ Please check the release pages for the assets
 |- b4681
 |- b4743 (Support OuteTTS speaker configuration)
 |- b4762 (Regular update)
+|- b4818 (Support Phi4-mini)
 ```
