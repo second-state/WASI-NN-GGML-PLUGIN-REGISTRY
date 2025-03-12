@@ -27,6 +27,7 @@ Please check the release pages for the assets
 |- b4743 (Support OuteTTS speaker configuration)
 |- b4762 (Regular update)
 |- b4818 (Support Phi4-mini)
+|- b4875 (Support gemma-3)
 0.15.0-alpha.1
 |- b4818
 ```
