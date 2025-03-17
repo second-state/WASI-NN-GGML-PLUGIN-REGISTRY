@@ -28,6 +28,7 @@ Please check the release pages for the assets
 |- b4762 (Regular update)
 |- b4818 (Support Phi4-mini)
 |- b4875 (Support gemma-3)
+|- b4897 (Support gemma-3-image)
 0.15.0-alpha.1
 |- b4818
 ```
