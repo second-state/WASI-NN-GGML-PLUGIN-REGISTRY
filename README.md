@@ -30,6 +30,7 @@ Please check the release pages for the assets
 |- b4875 (Support gemma-3)
 |- b4897 (Support gemma-3-image)
 |- b4917 (Support EXAONE)
+|- b5074 (Support llama4-text-only)
 0.15.0-alpha.1
 |- b4818
 ```
