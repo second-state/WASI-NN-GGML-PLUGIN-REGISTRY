@@ -33,6 +33,7 @@ Please check the release pages for the assets
 |- b5074 (Support llama4-text-only)
 |- b5201
 |- b5361 (Support multi-modal)
+|- b5575
 0.15.0-alpha.1
 |- b4818
 ```
