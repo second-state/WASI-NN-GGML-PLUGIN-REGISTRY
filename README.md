@@ -34,6 +34,7 @@ Please check the release pages for the assets
 |- b5201
 |- b5361 (Support multi-modal)
 |- b5575
+|- b5593 (Fixed the gemma-3-image context issue)
 0.15.0-alpha.1
 |- b4818
 ```
