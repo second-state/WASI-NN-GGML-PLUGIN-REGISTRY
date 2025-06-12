@@ -35,6 +35,7 @@ Please check the release pages for the assets
 |- b5361 (Support multi-modal)
 |- b5575
 |- b5593 (Fixed the gemma-3-image context issue)
+|- b5640 (Fixed the embd ubatch issue)
 0.15.0-alpha.1
 |- b4818
 ```
