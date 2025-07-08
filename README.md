@@ -36,6 +36,7 @@ Please check the release pages for the assets
 |- b5575
 |- b5593 (Fixed the gemma-3-image context issue)
 |- b5640 (Fixed the embd ubatch issue)
+|- b5835 (Support gemma3N)
 0.15.0-alpha.1
 |- b4818
 ```
