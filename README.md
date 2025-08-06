@@ -38,6 +38,7 @@ Please check the release pages for the assets
 |- b5640 (Fixed the embd ubatch issue)
 |- b5835 (Support gemma3N)
 |- b5896 (Support SmolLM3)
+|- b6097 (Support gpt-oss)
 0.15.0-alpha.1
 |- b4818
 ```
