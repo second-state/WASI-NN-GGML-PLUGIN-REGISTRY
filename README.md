@@ -40,9 +40,11 @@ Please check the release pages for the assets
 |- b5896 (Support SmolLM3)
 |- b6097 (Support gpt-oss)
 |- b6301 (Support MiniCPM-V4.5)
+|- b6343 (Fixed the macOS SIMDJSON issue)
 0.15.0-alpha.1
 |- b4818
 |- no longer updated, if you need a new version of the ggml plugin, please use 0.15.0
 0.15.0
 |- b6301 (Support MiniCPM-V4.5)
+|- b6343 (Fixed the macOS SIMDJSON issue)
 ```
